@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+	<loc>https://www.pilqar.pe/</loc>
+	<lastmod>2022-01-10T00:19:18+00:00</lastmod>
+	<priority>1.00</priority>
+	</url>
+	<url>
+	<loc>https://www.pilqar.pe/acerca</loc>
+	<lastmod>2022-01-10T00:29:47+00:00</lastmod>
+	<priority>0.80</priority>
+	</url>
+	<url>
+	<loc>https://www.pilqar.pe/plataformas/aula-virtual</loc>
+	<lastmod>2022-01-10T00:30:06+00:00</lastmod>
+	<priority>0.80</priority>
+	</url>
+	<url>
+	<loc>https://www.pilqar.pe/publicaciones</loc>
+	<lastmod>2022-03-24T00:30:06+00:00</lastmod>
+	<priority>0.80</priority>
+	</url>
+	<url>
+	<loc>https://www.pilqar.pe/publicaciones/ciberseguridad-peru-2021</loc>
+	<lastmod>2022-01-10T00:30:06+00:00</lastmod>
+	<priority>0.80</priority>
+	</url>
+	<url>
+	<loc>https://www.pilqar.pe/seguridad-informatica/</loc>
+	<lastmod>2022-06-12T00:30:06+00:00</lastmod>
+	<priority>0.80</priority>
+	</url>
+</urlset>

@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+<meta charset="UTF-8"/>
+<title>Aula virtual, plataforma educativa a tu alcance</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Aulas virtuales - Plataformas virtuales educativas. Tu instituto o colegio necesita un aula virtual. Solicita una demo gratis">
+<meta name="keywords" content="aula,virtual,alquiler,plataforma,educativa,linea,digitalizaci&oacute;n,demo,chamilo,Per&uacute;,precio,servicios,Trujillo,Peru">
+<link rel="canonical" href="https://www.pilqar.pe/plataformas/aula-virtual" />
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon.ico">
+<link rel="apple-touch-icon" type="image/png" sizes="57x57" href="/faviconapple57.ico">
+<link rel="stylesheet" href="../style.css">
+<link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml" />
+<script src="https://www.w3schools.com/lib/w3.js"></script> 
+
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "WebSite",
+  "@id": "https://www.pilqar.pe",
+  "name": "www.pilqar.pe",
+  "url": "https://www.pilqar.pe/plataformas/aula-virtual"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+        "item": {
+                "@id": "https://www.pilqar.pe",
+                  "@type": "WebSite",
+                  "name": "Pilqar - Soluciones Inform&aacute;ticas",
+                  "url": "https://www.pilqar.pe",
+                  "description": "Digitalizamos tu empresa implantando plataformas virtuales de acuerdo a lo requerido. Servicios de monitoreo de infraestructura de red y seguridad inform&aacute;tica"
+                }
+
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Plataformas-virtuales",
+        "item": {
+                "@id": "https://www.pilqar.pe/plataformas",
+                  "@type": "WebSite",
+                  "name": "Pilqar - Soluciones Inform&aacute;ticas",
+                  "url": "https://www.pilqar.pe/plataformas",
+                  "description": "Plataformas"
+                }
+
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Aula Virtual",
+        "item": {
+                "@id": "https://www.pilqar.pe/plataformas/aula-virtual",
+                  "@type": "WebSite",
+                  "name": "Pilqar - Soluciones Inform&aacute;ticas",
+                  "url": "https://www.pilqar.pe/plataformas/aula-virtual",
+                  "description": "Aula Virtual"
+                }
+
+  }]
+}
+</script>
+
+
+
+</head>
+
+
+
+
+
+<body>
+
+<!-- Messenger plugin de chat Code -->
+    <div id="fb-root"></div>
+      <script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            xfbml            : true,
+            version          : 'v10.0'
+          });
+        };
+
+        (function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = 'https://connect.facebook.net/es_ES/sdk/xfbml.customerchat.js';
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+      </script>
+
+      <!-- Your plugin de chat code -->
+      <div class="fb-customerchat"
+        attribution="page_inbox"
+        page_id="108515024259206">
+      </div>
+
+
+
+
+<!-- Navigation -->
+<!-- <div class="w3-top w3-bar w3-black w3-theme-d2-w3"> -->
+<div class="w3-bar w3-black w3-large">
+<a href="https://www.pilqar.pe" class="w3-bar-item  w3-mobile"><img class="w3-image" src="https://www.pilqar.pe/images/logo_empresa.png" alt="pilqar seguridad inform&aacute;" width="30%"></a>
+<a href="https://www.pilqar.pe#plataformas" class="w3-bar-item w3-button w3-mobile">Software para empresas</a>
+<a href="https://www.pilqar.pe#monitoreo" class="w3-bar-item w3-button w3-mobile">Monitoreo</a>
+<a href="https://www.pilqar.pe/seguridad-informatica" class="w3-bar-item w3-button w3-mobile">Seguridad TI</a>
+
+
+<div class="w3-right w3-hide-small">
+<a href="#contacto" class="w3-bar-item w3-button w3-right w3-mobile">Contacto</a>
+<a href="https://www.pilqar.pe/plataformas/aula-virtual#aulavirtual" class="w3-bar-item w3-button w3-right w3-mobile">Demo aula virtual</a>
+</div>
+
+</div>
+
+
+
+<!-- Header -->
+<header class="w3-display-container w3-content w3-wide" style="max-width:3000px;" id="home">
+  <img class="w3-image" src="../images/fondo_pilqar.jpg" alt="aula-virtual" width="3000px">
+  <div class="w3-display-middle w3-margin-top w3-center">
+    <h1 class="w3-xxlarge w3-text-white">Aulas virtuales</h1>
+  </div>
+</header>
+
+
+<!-- Plataforma -->
+<div class="w3-container w3-padding-64 w3-center w3-red" style="padding:30px 60px" id="plataforma">
+<h2>Plataformas educativas virtuales</h2>
+<img class="w3-image" src="../images/estudiantes.png" alt="aula virtual-drawkit image">
+<p>Somos una empresa dedicada a la implantación de plataformas educativas en las escuelas, colegios e instituciones que necesitan de una herramienta de fácil uso, con distintas opciones que permitan al profesor y estudiante poder sacar el máximo provecho de las clases.</p>
+
+</div>
+
+
+<!-- que es platforma virtual educativa -->
+<div id="aulavirtual" class="w3-container w3-center w3-white" style="padding:10px 50px">
+
+  <h2>Accede a nuestra plataforma demo gratuitamente</h2>
+
+<div class="w3-half">
+  <p class="w3-text-gray w3-left-align">Sabemos que las instituciones necesitan soluciones inmediatas por lo tanto ponemos a disposición nuestro sistema en modo demostración donde podrás visualizar como es nuestra plataforma</p>
+  <p class="w3-blue">Accede a la plataforma demo desde  <span class="w3-black w3-opacity-min"><a href="https://democampus.pilqar.pe">aqu&iacute;</a> </span></p> 
+  <p class="w3-text-gray">Datos del docente</p>
+  <p>Usuario: <span class="w3-black w3-opacity-min">docente1</span> </p>
+  <p>Clave: <span class="w3-black w3-opacity-min">docente1</span> </p>
+  <p class="w3-text-gray">Datos del usuario</p>
+  <p>Usuario: <b>estudiante1</b></p> 
+  <p>Clave: <b>estudiante1</b></p> 
+  <p class="w3-sand">Si estás interesado o tines dudas, envíanos un e-mail a <img class="w3-image" src="../images/contacto.png" alt="contacto"> para una demostración gratuita</p>
+  <a href="https://wa.me/51967350319?text=Hola,%20deseo%20mas%20informacion%20del%20servicio"><img class="w3-image" src="../images/wa_contacto_aula_virtual.png" alt="whatsapp"> D&eacute;janos un mensaje</a>
+
+</div>
+
+<div class="w3-half">
+  <p class="w3-text-gray"> Accede a nuestra plataforma demo de forma gratuita</p>
+  <a href="https://democampus.pilqar.pe"><img class="w3-image" src="../images/aulavirtual.gif" alt="aula virtual demo" ></a>
+  <p>Acceda ahora a nuestro sistema  &#9757;  gratuitamente</p> 
+  <p>haciendo clic sobre la imagen</p> 
+</div>
+
+
+</div>
+
+<!-- Importancia -->
+<div id="beneficio" class="w3-row-padding w3-light-gray w3-padding-64 w3-container">
+<div class="w3-content">
+
+  <h2>Beneficio del aula virtual</h2>
+
+<p class="w3-left-align">El aula virtual tiene la finalidad de servir como un lugar donde los alumnos pueden encontrar recursos desarrollados por el docente. Estos recursos pueden ser lecciones, foros, videos, chats, etc. 
+
+
+Las caracter&iacute;sticas de la plataforma pueden ser distintas entre las alternativas existentes en el mercado, pero siempre comparten caracter&iacute;sticas en com&uacute;n centralizaci&oacute;m, interactividad, escalabilidad y automatizaci&oacute;n.
+
+</p>
+
+ <ul>
+  &#x2705;Acceso sin barreras geogr&aacute;ficas  <br /><br />
+  &#x2705;Ahorro de recursos  <br /><br />
+  &#x2705;Interactividad entre los participantes  <br /><br />
+  &#x2705;Gesti&oacute;n optimizada del tiempo  <br /><br />
+  </ul>
+
+<p class="w3-left-align">
+Otro de los temas es la facilidad de uso de la herramienta, ya que la herramienta educativa debe ser intuitita para los docentes, estudiantes y administradores de la herramienta.
+</p>
+
+</div>
+</div>
+
+<!-- servicios ofrecemos -->
+<div id="beneficio2" class="w3-row-padding w3-light-gray w3-padding-64 w3-container">
+<div class="w3-content">
+
+
+  <h2>&iquest;Qué servicios ofrecemos?</h2>
+ <ul>
+  &#x2705;Soporte Técnico  <br /><br />
+  &#x2705;Respaldo de datos  <br /><br />
+  &#x2705;Capacitación  <br /><br />
+  &#x2705;Manuales <br /><br />
+  </ul>
+  <p>Para hacer más efectivo el uso de la herramienta se necesita de un navegador web actualizado y una velocidad de internet de banda ancha</p>
+  <p>No esta incluido: soporte de problemas de sistema operativo, carga de lecciones o usuarios, exportación de ficheros y restauración de cursos</p>
+
+</div>
+</div>
+
+<!-- Caracteristicas -->
+<div id="Caracteristicas" class="w3-row-padding w3-padding-64 w3-container">
+<div class="w3-content">
+    <div class="w3-third w3-center padding-left:102px  w3-opacity w3-hover-opacity-off">
+        <img class="w3-image w3-padding-64 " src="../images/caracteristicas.gif" alt="Caracteristicas">
+    </div>
+    <div class="w3-twothird w3-padding-large">
+      <h1>&iquest;Qué caracter&#237;sticas tiene la plataforma?</h1>
+  <ul>
+  &#x2705;Evaluaciones  <br /><br />
+  &#x2705;Lecciones <br /><br />
+  &#x2705;Control de asistencia <br /><br />
+  &#x2705;Foros <br /><br />
+  &#x2705;Reporte de avances de las lecciones <br /> <br />
+  &#x2705;Chat
+
+  </ul>
+    </div>
+</div>
+</div>
+
+
+
+
+
+<!-- Precio -->
+<div class="w3-container w3-content w3-center w3-white" id="precio">
+  <h3>PRECIOS 2022</h3>
+  <p class="w3-large">Elige el plan que te convenga.</p>
+  <div class="w3-row-padding" style="margin-top:64px">
+    <div class="w3-third w3-section">
+      <ul class="w3-ul w3-white w3-hover-shadow">
+        <li class="w3-black w3-xlarge w3-padding-32">Básico</li>
+        <li class="w3-padding-16"><b>Hasta</b> 100 estudiantes</li>
+        <li class="w3-padding-16"><b>Soporte</b> v&iacute;a tickets y whatsapp</li>
+        <li class="w3-padding-16"><b>20GB</b> Almacenamiento</li>
+        <li class="w3-padding-16">
+          <h2 class="w3-wide">S/ 200 <del>400</del></h2>
+          <span class="w3-opacity">por mes. Sin IGV</span>
+        </li>
+      </ul>
+    </div>
+    <div class="w3-third">
+      <ul class="w3-ul w3-white w3-hover-shadow">
+        <li class="w3-red w3-xlarge w3-padding-48">Mediano</li>
+        <li class="w3-padding-16"><b>Hasta</b> 200 estudiantes</li>
+        <li class="w3-padding-16"><b>Soporte</b> v&iacute;a tickets y whatsapp</li>
+        <li class="w3-padding-16"><b>40GB</b> Almacenamiento</li>
+        <li class="w3-padding-16">
+          <h2 class="w3-wide">S/ 400 <del>600</del></h2>
+          <span class="w3-opacity">por mes. Sin IGV</span>
+        </li>
+      </ul>
+    </div>
+    <div class="w3-third w3-section">
+      <ul class="w3-ul w3-white w3-hover-shadow">
+        <li class="w3-black w3-xlarge w3-padding-32">Customizado</li>
+        <li class="w3-padding-16">A definir </li>
+        <li class="w3-padding-16">A definir </li>
+        <li class="w3-padding-16">A definir </li>
+        <li class="w3-padding-16">
+          <h2 class="w3-wide"> Consulte</h2>
+          <span class="w3-opacity">por mes</span>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+</div>
+
+<!--  preguntas -->
+  <div class="w3-light-grey w3-content w3-container w3-padding-64" id="preguntas">
+
+    <h2 class="w3-center">Preguntas frecuentes</h2>
+  <p>
+ <span class="w3-text-red">&#191;Puedo probar la plataforma antes de hacer el contrato&#63;</span>
+	<br>
+	Desde luego, podemos agendar una reuni&oacute;n para hacer una demostraci&oacute;n.
+	<br>
+	<br>
+<span class="w3-text-red">	&#191;Debo instalar alg&uacute;n programa adicional en la computadora&#63;</span>
+	<br>
+	No. 
+	<br>
+	<br>
+
+<span class="w3-text-red">	&#191;Qu&eacute; requisitos se necesitan para acceder a la plataforma&#63;</span>
+	<br>
+	Los usuarios deben tener un sistema con un navegador Google Chrome, Mozilla Firefox o Windows Edge.
+	<br>
+	<br>
+
+<span class="w3-text-red">	&#191;Puedo utilizar mi propio dominio&#63;</span>
+	<br>
+	S&iacute;. Pero no es obligatorio, te falicitamos una dirección para que puedas acceder a tu portal.
+	<br>
+	<br>
+
+<span class="w3-text-red">	&#191;Que sistema utilizan&#63;</span>
+	<br>
+	Utilizamos el sistema Chamilo Open Source
+	<br>
+	<br>
+
+<span class="w3-text-red">	&#191;La capacitaci&oacute;n por el uso de la plataforma est&aacute; incluida&#63; en el servicio</span>
+	<br>
+	S&iacute;. Se dicta un curso, explicando el uso de la plataforma. 
+	<br>
+	<br>
+	<br>
+	<br>
+
+Las plataformas educativas son útiles tanto para instituciones educativas como para profesores particulares que desean una herramienta que no tenga limitaciones geográficas ni de tiempo donde los alumnos puedan realizar sus consultas e interactuar con el resto de estudiantes de acuerdo a su disponibilidad de tiempo, sin miedo a perder de las clases o exámenes.
+
+</p>
+</div>
+
+
+
+<!-- Contacto -->
+<div id="contacto" class="w3-container w3-center w3-padding-64">
+
+<!-- Invitacion -->
+<p>
+No te compliques comprando equipos o contratando personal t&eacute;cnico. Un servicio en la nube que te permita acceder a tus recursos educativos digitales desde cualquier sitio y en cualquier momento puede ser la solución a tus necesidades. Aprovecha esta oportunidad y solicita una asesoria gratis. 
+</p>
+
+	<div class="w3-padding-16"><span class="w3-xlarge w3-border-teal w3-bottombar">Contacto</span></div>
+<p>TRUJILLO, PER&#218;</p>
+<p>Email:  <img class="w3-image" src="../images/contacto.png" alt="contacto"></p>
+  <a href="https://wa.me/51967350319?text=Hola,%20deseo%20mas%20informacion%20del%20servicio"><img class="w3-image" src="../images/wa_contacto_aula_virtual.png" alt="whatsapp">Whatsapp</a>
+<p class="w3-opacity w3-center"><i>Escr&iacute;benos</i></p>
+<p>Pilqar 2022</p>
+</div>
+
+
+
+
+
+<footer class="w3-container w3-padding-64 w3-black w3-center">
+<div class="w3-col m5">
+<br />
+<br />
+<p><img class="w3-image" src="../images/logo_empresa.png" alt="pilqar"></p>
+</div>
+<div class="w3-col m5">
+<p><a href="../publicaciones">Publicaciones</a></p>
+<p><a href="../acerca#acerca">Acerca de la empresa</a></p>
+<p><a href="../libro-reclamaciones#libro">Libro de reclamaciones</a></p>
+  <h4>En las redes sociales</h4>
+  <a href="https://www.youtube.com/channel/UC4ikjswTd4dNlkLF_L-o9Ng" class="w3-button w3-red "><i class="fa fa-arrow-up w3-margin-right"></i>Y</a>
+  <a href="https://www.facebook.com/Pilqar" class="w3-button w3-indigo w3-margin"><i class="fa fa-arrow-up w3-margin-right"></i>F</a>
+  <a href="https://www.linkedin.com/company/pilqar" class="w3-button w3-light-blue w3-margin"><i class="fa fa-arrow-up w3-margin-right"></i>L</a>
+<br>
+<a href="#" class="w3-button w3-black w3-margin"><i class="fa fa-arrow-up w3-margin-right"></i>Ir arriba</a>
+</div>
+
+</footer>
+
+
+
+
+</body>
+</html>
+
